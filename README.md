@@ -99,12 +99,6 @@ If the bot doesn't understand the input, it will reply with something like:
 
 ## Acknowledgments
 
-Certainly! Here's the updated **Acknowledgments** section in paragraph form:
-
----
-
-## Acknowledgments
-
 I would like to express my sincere gratitude to the **AICTE (All India Council for Technical Education)** for their continuous support and initiatives that promote innovation and skill development in the field of technology. Their programs have significantly contributed to creating a conducive environment for learning and growth in the field of education and technology.
 
 I would also like to extend my heartfelt thanks to my **supervisor, Aditya Prashant Ardak**, for his invaluable guidance and constant support throughout the development of this project. His expert advice and constructive feedback were crucial in shaping the direction of this chatbot project, ensuring it was both technically sound and effective. I deeply appreciate his patience and willingness to help me improve my skills, and I am incredibly grateful for his mentorship during this journey.
